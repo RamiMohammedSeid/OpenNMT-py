@@ -30,12 +30,12 @@ Table of Contents
 
 Install `OpenNMT-py` from `pip`:
 ```bash
-pip install OpenNMT-py
+pip install OpenNMT-py #Install the raw OpenNMT-py
 ```
 
 or from the sources:
 ```bash
-git clone https://github.com/OpenNMT/OpenNMT-py.git
+git clone https://github.com/RamiMohammedSeid/OpenNMT-py.git
 cd OpenNMT-py
 python setup.py install
 ```
